@@ -1,1 +1,1 @@
-web: rimraf public && webpack --config ./webpack.production.config.js --progress --profile --colors
+web: npm run build && npm start
