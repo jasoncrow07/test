@@ -5,6 +5,7 @@ import Routes from '../routes';
 
 const App = () =>
     <div>
+        TEST
         <h1>Test</h1>
         { Routes }
         <footer className={footer}>
